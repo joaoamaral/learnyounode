@@ -29,10 +29,7 @@ Contents
   coffeescript version
 
   - README.md - This file
-
-  Learn about MD Format (Markdown)
-
-  Column Selection Atom Ctrl+Shift+(Up or Down)
+  
 
 Exercise 1 - Hello World
 --
